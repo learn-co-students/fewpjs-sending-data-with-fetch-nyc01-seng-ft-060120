@@ -39,6 +39,24 @@
       "dogBreed": "out for me ",
       "submit": "Submit",
       "id": 7
+    },
+    {
+      "userName": "Shadman",
+      "userEmail": "shadman@gmail.com",
+      "submit": "Submit",
+      "id": 8
+    },
+    {
+      "userName": "Shadman",
+      "userEmail": "shadman@gmail.com",
+      "submit": "Submit",
+      "id": 9
+    },
+    {
+      "userName": "Shadman",
+      "userEmail": "shadman@gmail.com",
+      "submit": "Submit",
+      "id": 10
     }
   ],
   "cats": [
@@ -53,7 +71,26 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "userName": "Shadman",
+      "userEmail": "shadman@gmail.com",
+      "submit": "Submit",
+      "id": 1
+    },
+    {
+      "userName": "Shadman",
+      "userEmail": "poophead.com",
+      "submit": "Submit",
+      "id": 2
+    },
+    {
+      "userName": "Shadman",
+      "userEmail": "poophead.com",
+      "submit": "Submit",
+      "id": 3
+    }
+  ],
   "robots": [
     {
       "robotName": "C8-09S100K",
